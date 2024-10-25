@@ -1,5 +1,4 @@
 import { Button, Container, Text, Title } from "@mantine/core";
-import Image from "next/image";
 
 export default function Home() {
   return (
@@ -10,9 +9,9 @@ export default function Home() {
       <Text mb="md">
         This is a sample project using Mantine UI with Next.js and TypeScript
       </Text>
-      <Button variant="filled" color="blue" size="lg">
+      <Button variant="filled" color="tea-green" size="lg">
         Get Started
-      </Button>
+      </Button> 
     </Container>
   );
 }

@@ -9,12 +9,17 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.6.0",
+    "@fortawesome/free-solid-svg-icons": "^6.6.0",
+    "@fortawesome/react-fontawesome": "^0.2.2",
     "@mantine/charts": "^7.13.4",
     "@mantine/core": "^7.13.4",
     "@mantine/dates": "^7.13.4",
     "@mantine/form": "^7.13.4",
     "@mantine/hooks": "^7.13.4",
     "@mantine/notifications": "^7.13.4",
+    "@tabler/core": "^1.0.0-beta21",
+    "@tabler/icons-react": "^3.20.0",
     "dayjs": "^1.11.13",
     "next": "15.0.1",
     "react": "^18.3.1",
