@@ -8,4 +8,6 @@ export interface DashboardMenuItem {
 
 export interface HoverableIconProps {
     Icon: React.ComponentType<{ color?: string }>;
+    currentPath: string;
+    itemPath: string;
   }
